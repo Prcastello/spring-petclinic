@@ -14,7 +14,6 @@
  * limitations under the License.
  */
 
-
 package org.springframework.samples.petclinic.model;
 
 import java.util.Locale;
